@@ -5,6 +5,8 @@ coverY: 0
 
 # Welcome to The Jungle
 
+![](.gitbook/assets/Pixeltigers\_logo\_lg.webp)
+
 The Jungle is a place with a single rule: survival of the fittest.&#x20;
 
 PixelTigers have long existed in this special realm, ever since the world dived into the blockchain and never looked back. Here, they discovered that living things have no need for air, food, or water to survive, but only one resource, pixels. \

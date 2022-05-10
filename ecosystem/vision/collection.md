@@ -26,15 +26,15 @@ Legendary Tigers produce the most amount of $PIXELS per day. Only **10** legenda
 
 ### Unique Tigers
 
-Content coming soon
+You guessed it, uniques tigers are 1:1. There are **40** unique Tigers in total, some have been minted already and the remainder will be minted during the next phase.
 
 ### OG Tigers
 
-Staying loyal to our early members, the first 1111 mints became OG Tigers which can be told apart using the gold border. The OG Tigers produce more $PIXELS than regular Tigers making them a valuable asset within our ecosystem.
+Staying loyal to our early members, the first **1111** mints became OG Tigers which can be told apart using the gold border. The OG Tigers produce more $PIXELS than regular Tigers making them a valuable asset within our ecosystem.
 
 ### Non-OG Tigers
 
-some Content coming soon
+Content coming soon.&#x20;
 
 ## Cubs
 

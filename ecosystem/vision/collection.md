@@ -26,7 +26,7 @@ Legendary Tigers produce the most amount of $PIXELS per day. Only **10** legenda
 
 ### Unique Tigers
 
-some information
+Content coming soon
 
 ### OG Tigers
 
@@ -34,7 +34,7 @@ Staying loyal to our early members, the first 1111 mints became OG Tigers which 
 
 ### Non-OG Tigers
 
-some information
+some Content coming soon
 
 ## Cubs
 

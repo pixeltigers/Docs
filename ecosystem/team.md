@@ -115,7 +115,7 @@ information coming soon
 
 ![](<../.gitbook/assets/unnamed (7).png>)
 
-🐦 [@mistyblue23](https://twitter.com/mistyblu23)  — :clap: AKA MacyBlu#3262 — 🇸🇬 Singapore (GMT+8)
+🐦 [@mistyblu23](https://twitter.com/mistyblu23)  — :clap: AKA MacyBlu#3262 — 🇸🇬 Singapore (GMT+8)
 
 Hi, I’m I-Lin 🙆🏻‍♀️ for those who don’t already know, Macy’s my furkid 🐶&#x20;
 

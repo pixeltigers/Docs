@@ -2,6 +2,8 @@
 
 More information about the team & council will be available soon.
 
+
+
 ## Founders <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
 
 ### Simba
@@ -107,3 +109,14 @@ information coming soon
 
 information coming soon
 
+## Moderator <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
+
+### I-Lin Lee
+
+![](<../.gitbook/assets/unnamed (7).png>)
+
+🐦 [@mistyblue23](https://twitter.com/mistyblu23)  — :clap: AKA MacyBlu#3262 — 🇸🇬 Singapore (GMT+8)
+
+Hi, I’m I-Lin 🙆🏻‍♀️ for those who don’t already know, Macy’s my furkid 🐶&#x20;
+
+Bought my first Crypto in Feb 2021, never thought I’d spend any of them on NFTs but here I am. Worked in regional marketing for Universal Music until I got tired of it. These days I spend my time doing what I enjoy which is yoga, taking care of my doggos, IRL family and learning about NFTs from my web3 family.\

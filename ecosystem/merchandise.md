@@ -1,3 +1,3 @@
-# Merchandise
+# 🩳 Merchandise
 
 TBA

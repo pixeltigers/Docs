@@ -1,4 +1,4 @@
-# 💰 Community Wallet
+# Community Wallet
 
 Wallet address: [https://gnosis-safe.io/app/eth:0xA1a8df870490673CC5EEA230632C0B1d39e8B773/](https://gnosis-safe.io/app/eth:0xA1a8df870490673CC5EEA230632C0B1d39e8B773/)
 

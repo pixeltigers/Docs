@@ -1,2 +1,2 @@
-# Tokenomics
+# 🪙 Tokenomics
 

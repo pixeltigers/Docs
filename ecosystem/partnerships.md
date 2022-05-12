@@ -1,3 +1,3 @@
-# Partnerships
+# 🤝 Partnerships
 
 TBA

@@ -1,3 +1,3 @@
-# 🔒 Community Vault
+# Community Vault
 
 Content coming soon

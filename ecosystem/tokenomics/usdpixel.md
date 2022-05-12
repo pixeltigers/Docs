@@ -1,4 +1,4 @@
-# 🪙 $PIXEL
+# $PIXEL
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-06 at 14-30-26 PixelTigers.png>)
 

@@ -32,5 +32,6 @@
 * [Website](https://pixeltigers.io)
 * [Twitter](https://twitter.com/PixelTigers)
 * [Discord](https://discord.gg/PixelTigers)
-* [OpenSea](https://opensea.io/collection/pixeltigers-official)
+* [OpenSea (Tigers)](https://opensea.io/collection/pixeltigers-official)
+* [OpenSea (Cubs)](https://opensea.io/collection/pixeltigers-cubs)
 * [Rarity Sniper](https://raritysniper.com/pixeltigers)

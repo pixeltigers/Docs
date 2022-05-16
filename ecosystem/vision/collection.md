@@ -34,7 +34,7 @@ Staying loyal to our early members, the first **1111** mints became OG Tigers wh
 
 ### Non-OG Tigers
 
-Content coming soon.&#x20;
+Non-OG Tigers are the forefront of our collection. They play an important part in our ecosystem and will produce less $PIXEL than OG Tigers.
 
 ## Cubs
 

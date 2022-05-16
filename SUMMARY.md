@@ -5,6 +5,7 @@
 ## ♻ Ecosystem
 
 * [Vision](ecosystem/vision/README.md)
+  * [Our Story](ecosystem/vision/our-story.md)
   * [Collection](ecosystem/vision/collection.md)
   * [Breeding & Evolution](ecosystem/vision/breeding-and-evolution.md)
 * [Team](ecosystem/team.md)

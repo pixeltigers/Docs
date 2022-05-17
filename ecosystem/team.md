@@ -113,7 +113,7 @@ information coming soon
 
 **WEB 3 Community Manager & Partnerships**
 
-22 years old, E-Commerce entrepreneur and avid trader in love with the web3 world. Undergrad degree from Durham University in entrepreneurship and management. I'm in NFTs for the friendship and memories.
+22 y/o Founder of SpwN Alpha, E-Commerce entrepreneur and avid trader in love with the web3 world. Undergrad degree from Durham University in entrepreneurship and management. In NFTs for the friendship and memories.
 
 ## Moderator <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
 

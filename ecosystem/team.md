@@ -6,7 +6,7 @@ More information about the team & council will be available soon.
 
 ## Founders <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
 
-### Simba
+### Simba Tan
 
 ![](<../.gitbook/assets/unnamed (6).png>)
 

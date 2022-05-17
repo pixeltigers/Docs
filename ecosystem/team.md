@@ -83,7 +83,7 @@ With over 8 years of experience in the Blockchain realm.
 
 ### Jonathan Beaudoin
 
-![](<../.gitbook/assets/unnamed (3).png>) ![](../.gitbook/assets/mugshot.jpg)
+![](<../.gitbook/assets/unnamed (3) (1).png>) ![](../.gitbook/assets/mugshot.jpg)
 
 🐦 [@jonathanbeaudo6](https://twitter.com/JonathanBeaudo6)  — :clap: AKA JoBeau#6393 — 🇨🇦 Canada (GMT-4)
 
@@ -107,9 +107,13 @@ information coming soon
 
 ### Kevan Zaidi
 
-🐦 [@itskevan](https://twitter.com/itsKevan)  — :clap: AKA kingkevi#1206 — 🇺🇸 ? (GMT-7)
+![](<../.gitbook/assets/unnamed (3).png>)
 
-information coming soon
+🐦 [@itskevan](https://twitter.com/itsKevan)  — :clap: AKA kingkevi#1206 — 🇵🇰 Pakistan (GMT+5)
+
+**WEB 3 Community Manager & Partnerships**
+
+22 years old, E-Commerce entrepreneur and avid trader in love with the web3 world. Undergrad degree from Durham University in entrepreneurship and management. I'm in NFTs for the friendship and memories.
 
 ## Moderator <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
 

@@ -109,7 +109,7 @@ information coming soon
 
 ![](<../.gitbook/assets/unnamed (3).png>)
 
-🐦 [@itskevan](https://twitter.com/itsKevan)  — :clap: AKA kingkevi#1206 — 🇵🇰 Pakistan (GMT+5)
+🐦 [@itskevan](https://twitter.com/itsKevan)  — :clap: AKA kingkevi#1111 — 🇵🇰 Pakistan (GMT+5)
 
 **WEB 3 Community Manager & Partnerships**
 

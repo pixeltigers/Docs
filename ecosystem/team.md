@@ -50,6 +50,8 @@ _Life = Eat, Sleep, Code, Repeat_
 
 ![](../.gitbook/assets/liger.png)
 
+**Game Developer**
+
 Hi! I'm Lionel, but you can call me Lio! I am a student with a strong passion for code, design, and games! I wish to use my skills to conceptualise, design, and develop player-facing aspects of games that impress the player throughout every step of their experience.&#x20;
 
 I find pleasure in front-end development, technical art, and game design. My recent games are made using Unity, and you can find them here: [https://lio-lim.itch.io/](https://lio-lim.itch.io/) I hope you enjoy them as much as I enjoyed making them!

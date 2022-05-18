@@ -97,13 +97,17 @@ I am technically sound in premiere pro and after effects for video editing. I ha
 
 _Dedicated to bridging web3 and real life._
 
-### Lusterate
+### Montana Turner
 
-![](<../.gitbook/assets/unnamed (1).png>)
+![](<../.gitbook/assets/unnamed (1).png>) ![](../.gitbook/assets/IMG\_4424.png)
 
 🐦 [@lustrate](https://twitter.com/lustrate)  — :clap: AKA lustrate#8379 — 🇺🇸 United States (GMT-7)
 
-information coming soon
+**Community Leader**
+
+I work in the oil industry as a Lead in creating lubrications. I’ve been in the NFT space since late 2021. I started my mod career for PixelTigers from the very start with the founders. You probably also know me from the Digi Dragonz.&#x20;
+
+I’m continuously learning and evolving my mindset to bring as much value as I can to the WEB3 space.
 
 ### Kevan Zaidi
 
@@ -111,7 +115,7 @@ information coming soon
 
 🐦 [@itskevan](https://twitter.com/itsKevan)  — :clap: AKA kingkevi#1111 — 🇵🇰 Pakistan (GMT+5)
 
-**WEB 3 Community Manager & Partnerships**
+**WEB 3 Collaboration & Partnership Manager**
 
 22 y/o Founder of SpwN Alpha, E-Commerce entrepreneur and avid trader in love with the web3 world. Undergrad degree from Durham University in entrepreneurship and management. In NFTs for the friendship and memories.
 

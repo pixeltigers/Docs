@@ -6,9 +6,9 @@ The community wallet is set up as a multi-sig wallet meaning it's owned by multi
 
 ## Members in charge
 
-* Simba
+* Simba Tan
 * Sam Path
 * Zak Lewis
-* Lustrate
-* Jonathan
-* Kevan
+* Jonathan Beaudoin
+* Montana Turner
+* Kevan Zaidi

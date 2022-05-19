@@ -6,9 +6,9 @@ Tigers are the Genesis collection of PixelTigers ecosystem. There are 4444 Tiger
 
 `Collection: 4444`\
 `Legendary: 20`\
-`Unique Tigers: 40`\
+`Unique Tigers: 30`\
 `OG Tigers: 1111`\
-`Non-OG Tigers: 3273`
+`Non-OG Tigers: 3283`
 
 Collection wallet: 0x0D6402d20106B6E34a1bD63597B2e4B8C9229Ca9
 
@@ -22,11 +22,11 @@ Minting Tigers has been split into multiple phases. Currently, only 1600 have be
 
 Yes! We have a total of **20** legendary Tigers. All our legendary Tigers are fully animated and stand out among the remainder of the collection.&#x20;
 
-Legendary Tigers produce the most amount of $PIXELS per day. Only **10** legendary Tigers have been minted and the remainder will be available in the next phase of Tiger mint.
+Legendary Tigers produce the most amount of $PIXELS per day. Only **9** legendary Tigers have been minted and the remainder will be available in the next phase of Tiger mint.
 
 ### Unique Tigers
 
-You guessed it, uniques tigers are 1:1. There are **40** unique Tigers in total, some have been minted already and the remainder will be minted during the next phase.
+You guessed it, uniques tigers are 1:1. There are **30** unique Tigers in total, some have been minted already and the remainder will be minted during the next phase.
 
 ### OG Tigers
 
@@ -34,7 +34,7 @@ Staying loyal to our early members, the first **1111** mints became OG Tigers wh
 
 ### Non-OG Tigers
 
-Non-OG Tigers are the forefront of our collection. They play an important part in our ecosystem and will produce less $PIXEL than OG Tigers.
+Non-OG Tigers are at the forefront of our collection. They play an important part in our ecosystem and will produce less $PIXEL than OG Tigers.
 
 ## Cubs
 

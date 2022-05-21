@@ -46,9 +46,9 @@ _Life = Eat, Sleep, Code, Repeat_
 
 ### Lio Lim
 
-:clap: AKA Lio#3182 — 🇸🇬 Singapore (GMT+8)
-
 ![](../.gitbook/assets/liger.png)
+
+:clap: AKA Lio#3182 — 🇸🇬 Singapore (GMT+8)
 
 **Game Developer**
 
@@ -110,16 +110,6 @@ _Dedicated to bridging web3 and real life._
 I work in the oil industry as a Lead in creating lubrications. I’ve been in the NFT space since late 2021. I started my mod career for PixelTigers from the very start with the founders. You probably also know me from the Digi Dragonz.&#x20;
 
 I’m continuously learning and evolving my mindset to bring as much value as I can to the WEB3 space.
-
-### Kevan Zaidi
-
-![](<../.gitbook/assets/unnamed (3).png>)
-
-🐦 [@itskevan](https://twitter.com/itsKevan)  — :clap: AKA kingkevi#1111 — 🇵🇰 Pakistan (GMT+5)
-
-**WEB 3 Collaboration & Partnership Manager**
-
-22 y/o Founder of SpwN Alpha, E-Commerce entrepreneur and avid trader in love with the web3 world. Undergrad degree from Durham University in entrepreneurship and management. In NFTs for the friendship and memories.
 
 ## Moderator <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
 

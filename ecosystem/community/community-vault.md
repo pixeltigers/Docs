@@ -1,3 +1,5 @@
 # Community Vault
 
-Content coming soon
+PixelTigers vault contains NFT assets from all projects. The community vault is used to store NFTs for giveaways, collaboration, marketing & Raffle.
+
+The vault currently holds 40 Tigers & Cubs.

@@ -1,3 +1,0 @@
-# DAO
-
-Content coming soon.

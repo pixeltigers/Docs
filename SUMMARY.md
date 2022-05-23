@@ -11,7 +11,6 @@
 * [Team](ecosystem/team.md)
 * [Community](ecosystem/community/README.md)
   * [Voting](ecosystem/community/voting.md)
-  * [DAO](ecosystem/community/dao.md)
   * [Community Wallet](ecosystem/community/community-wallet.md)
   * [Community Vault](ecosystem/community/community-vault.md)
 * [🪙 Tokenomics](ecosystem/tokenomics/README.md)

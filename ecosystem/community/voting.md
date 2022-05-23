@@ -21,3 +21,7 @@ There are 3 members of the council designated with the task: Sam Path, Zak Lewis
 Our Snapshot account is connected to our ENS name **PixelTigersDAO.eth**. You can access the system via the following link:
 
 {% embed url="https://snapshot.org/#/pixeltigersdao.eth/" %}
+
+### Do I need to pay gas to vote?
+
+No.

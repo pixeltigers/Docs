@@ -39,8 +39,4 @@ The $PIXEL token is generated based on the type of Tiger you hold. $PIXEL can on
 * Unique Tigers = 15 $PIXEL daily
 * Ledgandary Tigers = 15 $PIXEL daily
 
-### How can I boost my PIXEL generation rate?
-
-Our system will take the following algorithm into consideration to boost PIXEL generation. Refer to the diagram below.
-
-![Pixel generation diagram](../../.gitbook/assets/0ab9afb1221c6c51008c3ff8c2f6912bab0a70b237fb83de54223ffa53205925.png)
+![](../../.gitbook/assets/0ab9afb1221c6c51008c3ff8c2f6912bab0a70b237fb83de54223ffa53205925.png)

@@ -14,7 +14,7 @@ More information about the team & council will be available soon.
 
 Hi! I'm a Computer Science student wholly interested in blockchain technology. I work as part-time dev, full-time NFT degen.
 
-### Omilatte
+### Walwyn Lee
 
 ![](../.gitbook/assets/unnamed.png)
 

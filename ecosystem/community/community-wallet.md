@@ -11,4 +11,3 @@ The community wallet is set up as a multi-sig wallet meaning it's owned by multi
 * Zak Lewis
 * Jonathan Beaudoin
 * Montana Turner
-* Kevan Zaidi

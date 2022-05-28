@@ -1,3 +1,3 @@
 # 🛍 Shop
 
-TBA
+Information coming soon

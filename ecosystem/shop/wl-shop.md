@@ -11,3 +11,7 @@ Shop items are also available for non-Tiger owners however there is a slight pri
 ### Can I request a WL for the shop?
 
 Yes, you can do this via our Discord, there is a shop suggestion channel intended to be used for this purpose.&#x20;
+
+### Are you open to collaboration?
+
+Please fill the form below and a member of our community will contact you: [https://docs.google.com/forms/d/e/1FAIpQLSdq4pG6dTy\_4fu4GZuPS\_n5zc1hAU87N\_GXdkyeFipLrSs4Fg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdq4pG6dTy\_4fu4GZuPS\_n5zc1hAU87N\_GXdkyeFipLrSs4Fg/viewform)

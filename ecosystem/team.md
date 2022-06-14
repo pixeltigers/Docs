@@ -4,7 +4,7 @@ More information about the team & council will be available soon.
 
 
 
-## Founders <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
+## Founders
 
 ### Simba Tan
 
@@ -24,7 +24,7 @@ I’m a Business student, with an interest in Human Resources and Business Analy
 
 _Some words I live by: Trust the vibes_&#x20;
 
-## Team <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
+## Team
 
 ### **Raelynn Chan**
 
@@ -56,7 +56,7 @@ Hi! I'm Lionel, but you can call me Lio! I am a student with a strong passion fo
 
 I find pleasure in front-end development, technical art, and game design. My recent games are made using Unity, and you can find them here: [https://lio-lim.itch.io/](https://lio-lim.itch.io/) I hope you enjoy them as much as I enjoyed making them!
 
-## Council <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
+## Council
 
 ### Sam **Path**
 
@@ -111,7 +111,7 @@ I work in the oil industry as a Lead in creating lubrications. I’ve been in th
 
 I’m continuously learning and evolving my mindset to bring as much value as I can to the WEB3 space.
 
-## Moderator <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
+## Moderator
 
 ### I-Lin Lee
 

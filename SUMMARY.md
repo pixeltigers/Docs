@@ -21,6 +21,8 @@
   * [WL Shop](ecosystem/shop/wl-shop.md)
   * [Merchandise Shop](ecosystem/shop/merchandise-shop.md)
 * [🩳 Merchandise](ecosystem/merchandise.md)
+* [🛠 Tools](ecosystem/tools/README.md)
+  * [🐯 TigerNode](ecosystem/tools/tigernode.md)
 * [🤝 Partnerships](ecosystem/partnerships.md)
 * [📋 Trello](ecosystem/trello.md)
 

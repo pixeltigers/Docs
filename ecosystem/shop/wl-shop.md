@@ -6,7 +6,7 @@ No more grinding for Whitelists spots! PixelTigers Jungle Shop is a marketplace 
 
 Shop items are also available for non-Tiger owners however there is a slight price increase for each item! Plus you have to get your hands on some $PIXEL first 🤭
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ### Can I request a WL for the shop?
 

@@ -14,7 +14,7 @@ Though the terms are often used interchangeably these connected computers are th
 
 ### How does TigerNode work?
 
-TigerNode is a full Ethereum Node combined with gated access to PixelTigers holders. The below diagram shows the process of submitting a transaction via Metamask which is then passed on to the mempool and finally to the miners. The below diagram explains the process in detail
+TigerNode is a full Ethereum Node combined with gated access to PixelTigers holders. The below diagram shows the process of submitting a transaction via Metamask which is then passed on to the mempool and finally to the miners.
 
 <figure><img src="../../.gitbook/assets/TigerNode FlowChart.drawio.png" alt=""><figcaption></figcaption></figure>
 

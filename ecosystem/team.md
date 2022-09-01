@@ -1,29 +1,5 @@
 # Team
 
-More information about the team & council will be available soon.
-
-
-
-## Founders
-
-### Simba Tan
-
-![](<../.gitbook/assets/unnamed (6).png>)
-
-🐦 [@hasabullaaa](https://twitter.com/hasabullaaa)  — :clap: AKA namejeff.eth#2568 — 🇸🇬 Singapore (GMT+8)
-
-Hi! I'm a Computer Science student wholly interested in blockchain technology. I work as part-time dev, full-time NFT degen.
-
-### Walwyn Lee
-
-![](../.gitbook/assets/unnamed.png)
-
-🐦 [@666joestar](https://twitter.com/666joestar)  — :clap: AKA Omilatte#6969 — 🇸🇬 Singapore (GMT+8)
-
-I’m a Business student, with an interest in Human Resources and Business Analytics from Singapore. Also an extrovert, so I love making new friends. Pop-punk and anime enthusiast.&#x20;
-
-_Some words I live by: Trust the vibes_&#x20;
-
 ## Team
 
 ### **Raelynn Chan**
@@ -79,7 +55,7 @@ A highly skilled IT professional with a background in cybersecurity, dedicated t
 
 Experience with data warehousing, web platform development, and information service delivery. Managed multidisciplinary teams in complex settings in multiple locations.
 
-A team orientated worker able to collaborate with all departments of the business, in order to complete projects in an efficient and timely manner, by implementing and automating end to end continuous build, integration, delivery, release, deployment process and pipeline.
+A team-orientated worker able to collaborate with all departments of the business, in order to complete projects in an efficient and timely manner, by implementing and automating end-to-end continuous build, integration, delivery, release, deployment process and pipeline.
 
 With over 8 years of experience in the Blockchain realm.
 
@@ -111,8 +87,6 @@ I work in the oil industry as a Lead in creating lubrications. I’ve been in th
 
 I’m continuously learning and evolving my mindset to bring as much value as I can to the WEB3 space.
 
-## Moderator
-
 ### I-Lin Lee
 
 ![](<../.gitbook/assets/unnamed (7).png>)
@@ -121,4 +95,14 @@ I’m continuously learning and evolving my mindset to bring as much value as I 
 
 Hi, I’m I-Lin 🙆🏻‍♀️ for those who don’t already know, Macy’s my furkid 🐶&#x20;
 
-Bought my first Crypto in Feb 2021, never thought I’d spend any of them on NFTs but here I am. Worked in regional marketing for Universal Music until I got tired of it. These days I spend my time doing what I enjoy which is yoga, taking care of my doggos, IRL family and learning about NFTs from my web3 family.\
+Bought my first Crypto in Feb 2021, never thought I’d spend any of them on NFTs but here I am. Worked in regional marketing for Universal Music until I got tired of it. These days I spend my time doing what I enjoy which is yoga, taking care of my doggos, IRL family and learning about NFTs from my web3 family.
+
+### Mahdi Shirzadkhan
+
+🐦 [@mahdiDESIGN](https://twitter.com/mahdiDESIGN)  — :clap: AKA MSY ⚓#3026 — 🇮🇹 Italy (GMT+1)
+
+Mahdi's background is in Industrial design and architecture and for the last decade and a half involved as a designer and project manager and behind the success of many multi-award winnings boats and products.
+
+One of the early Influencers in the Yacht industry on Insta as he was a believer in the platform.
+
+He joined and involved in the Crypto and NFT world as he believes in the long-term success and function of the projects and connection with IRL Utility.

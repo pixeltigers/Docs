@@ -99,10 +99,12 @@ Bought my first Crypto in Feb 2021, never thought I’d spend any of them on NFT
 
 ### Mahdi Shirzadkhan
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 🐦 [@mahdiDESIGN](https://twitter.com/mahdiDESIGN)  — :clap: AKA MSY ⚓#3026 — 🇮🇹 Italy (GMT+1)
 
 Mahdi's background is in Industrial design and architecture and for the last decade and a half involved as a designer and project manager and behind the success of many multi-award winnings boats and products.
 
 One of the early Influencers in the Yacht industry on Insta as he was a believer in the platform.
 
-He joined and involved in the Crypto and NFT world as he believes in the long-term success and function of the projects and connection with IRL Utility.
+He joined and was involved in the Crypto and NFT world as he believes in the long-term success and function of the projects and connection with IRL Utility.

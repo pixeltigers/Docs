@@ -101,7 +101,7 @@ Bought my first Crypto in Feb 2021, never thought I’d spend any of them on NFT
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-🐦 [@mahdiDESIGN](https://twitter.com/mahdiDESIGN)  — :clap: AKA MSY ⚓#3026 — 🇮🇹 Italy (GMT+1)
+🐦 [@mahdiDESIGN](https://twitter.com/mahdiDESIGN)  — :clap: AKA MSY ⚓#3026 — 🇬🇧 United Kingdom (GMT)
 
 Mahdi's background is in Industrial design and architecture and for the last decade and a half involved as a designer and project manager and behind the success of many multi-award winnings boats and products.
 

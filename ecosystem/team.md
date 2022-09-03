@@ -1,37 +1,5 @@
 # Team
 
-## Team
-
-### **Raelynn Chan**
-
-![](<../.gitbook/assets/unnamed (5).png>)
-
-🐦 [@aer\_thonks](https://twitter.com/aer\_thonks)  — :clap: AKA Rae#8099 — 🇸🇬 Singapore (GMT+8)
-
-Hey everyone! I'm currently working as a 2D game artist with a diploma in game, art & design. Passionate about character design & game dev + dabbled in other areas such as UI design, animation & scripting.&#x20;
-
-### Kai Yang
-
-![](../.gitbook/assets/unnamed5.png)
-
-🐦 [@xfatedx3](https://twitter.com/xfatedx3)  — :clap: AKA xfated#7645 — 🇸🇬 Singapore (GMT+8)
-
-Hi, friends. Techie & Software engineer to be. Dabbled in crypto and journeying into the NFT space.
-
-_Life = Eat, Sleep, Code, Repeat_
-
-### Lio Lim
-
-![](../.gitbook/assets/liger.png)
-
-:clap: AKA Lio#3182 — 🇸🇬 Singapore (GMT+8)
-
-**Game Developer**
-
-Hi! I'm Lionel, but you can call me Lio! I am a student with a strong passion for code, design, and games! I wish to use my skills to conceptualise, design, and develop player-facing aspects of games that impress the player throughout every step of their experience.&#x20;
-
-I find pleasure in front-end development, technical art, and game design. My recent games are made using Unity, and you can find them here: [https://lio-lim.itch.io/](https://lio-lim.itch.io/) I hope you enjoy them as much as I enjoyed making them!
-
 ## Council
 
 ### Sam **Path**
@@ -81,8 +49,6 @@ _Dedicated to bridging web3 and real life._
 
 🐦 [@lustrate](https://twitter.com/lustrate)  — :clap: AKA lustrate#8379 — 🇺🇸 United States (GMT-7)
 
-**Community Leader**
-
 I work in the oil industry as a Lead in creating lubrications. I’ve been in the NFT space since late 2021. I started my mod career for PixelTigers from the very start with the founders. You probably also know me from the Digi Dragonz.&#x20;
 
 I’m continuously learning and evolving my mindset to bring as much value as I can to the WEB3 space.
@@ -99,7 +65,15 @@ Bought my first Crypto in Feb 2021, never thought I’d spend any of them on NFT
 
 ### Mahdi Shirzadkhan
 
+<div>
+
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 🐦 [@mahdiDESIGN](https://twitter.com/mahdiDESIGN)  — :clap: AKA MSY ⚓#3026 — 🇬🇧 United Kingdom (GMT)
 
@@ -108,3 +82,33 @@ Mahdi's background is in Industrial design and architecture and for the last dec
 One of the early Influencers in the Yacht industry on Insta as he was a believer in the platform.
 
 He joined and was involved in the Crypto and NFT world as he believes in the long-term success and function of the projects and connection with IRL Utility.
+
+## Core Team
+
+### **Raelynn Chan**
+
+![](<../.gitbook/assets/unnamed (5).png>)
+
+🐦 [@aer\_thonks](https://twitter.com/aer\_thonks)  — :clap: AKA Rae#8099 — 🇸🇬 Singapore (GMT+8)
+
+Hey everyone! I'm currently working as a 2D game artist with a diploma in game, art & design. Passionate about character design & game dev + dabbled in other areas such as UI design, animation & scripting.&#x20;
+
+### Kai Yang
+
+![](../.gitbook/assets/unnamed5.png)
+
+🐦 [@xfatedx3](https://twitter.com/xfatedx3)  — :clap: AKA xfated#7645 — 🇸🇬 Singapore (GMT+8)
+
+Hi, friends. Techie & Software engineer to be. Dabbled in crypto and journeying into the NFT space.
+
+_Life = Eat, Sleep, Code, Repeat_
+
+### Lio Lim
+
+![](../.gitbook/assets/liger.png)
+
+:clap: AKA Lio#3182 — 🇸🇬 Singapore (GMT+8)
+
+Hi! I'm Lionel, but you can call me Lio! I am a student with a strong passion for code, design, and games! I wish to use my skills to conceptualise, design, and develop player-facing aspects of games that impress the player throughout every step of their experience.&#x20;
+
+I find pleasure in front-end development, technical art, and game design. My recent games are made using Unity, and you can find them here: [https://lio-lim.itch.io/](https://lio-lim.itch.io/) I hope you enjoy them as much as I enjoyed making them!

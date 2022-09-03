@@ -10,7 +10,7 @@ An Ethereum node is simply any computer running the software needed to connect w
 
 Though the terms are often used interchangeably these connected computers are the nodes and the software that they run is called the client.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Image by alchemy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Image by alchemy</p></figcaption></figure>
 
 ### How does TigerNode work?
 
